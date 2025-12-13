@@ -8,9 +8,11 @@
 ## Problem
 Pizza Runner needs to optimize their delivery operations and understand customer ordering patterns. This analysis examines runner performance, pizza preparation metrics, ingredient usage, and pricing strategies to improve efficiency and profitability.
 
+## Data Cleaning
+✅ **[View data cleaning steps →](./data-cleaning.md)**
 
 ## Solutions
-✅ **[View my complete solutions and analysis →](./solutions.md)**
+- ✅ **A. Pizza Metrics [View my complete solutions and analysis →](./a-pizza-metrics.md)**
 
 ## Dataset Used
 Six key datasets for this case study are :
@@ -70,7 +72,7 @@ Six key datasets for this case study are :
 4. The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.
 5. Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?
 - `customer_id`
--`order_id`
+- `order_id`
 - `runner_id`
 - `rating`
 - `order_time`
