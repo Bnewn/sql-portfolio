@@ -14,6 +14,8 @@ Pizza Runner needs to optimize their delivery operations and understand customer
 ## Solutions
 - ✅ **A. Pizza Metrics [View my complete solutions and analysis →](./a-pizza-metrics.md)**
 - ✅ **B. Runner and Customer Experience [View my complete solutions and analysis →](./b-runner-customer-experience.md)**
+- ✅ **C. Ingredient Optimization [View my complete solutions and analysis →](./c-ingredient-optimization.md)**
+
 ## Dataset Used
 Six key datasets for this case study are :
 
