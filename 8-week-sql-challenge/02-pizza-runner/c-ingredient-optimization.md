@@ -123,7 +123,7 @@ SELECT
         ELSE pizza_name || ' - Exclude ' || exclusions_name || ' - Extra ' || extras_name
     END AS order_item
 FROM order_details
-ORDER BY order_id
+ORDER BY order_id;
 ```
 
 **Results**

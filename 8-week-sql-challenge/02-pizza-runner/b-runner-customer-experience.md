@@ -194,7 +194,7 @@ SELECT
         END)::NUMERIC / count(*) * 100) , 2) AS success_percentage
 FROM runner_orders_clean
 GROUP BY runner_id
-ORDER by runner_id
+ORDER by runner_id;
 ```
 
 **Results**
