@@ -16,6 +16,7 @@ Pizza Runner needs to optimize their delivery operations and understand customer
 - ✅ **B. Runner and Customer Experience [View my complete solutions and analysis →](./b-runner-customer-experience.md)**
 - ✅ **C. Ingredient Optimization [View my complete solutions and analysis →](./c-ingredient-optimization.md)**
 - ✅ **D. Pricing and Rating [View my complete solutions and analysis →](./d-pricing-rating.md)**
+- ✅ **E. Bonus Questions [View my complete solutions and analysis →](./e-bonus-questions.md)**
 
 ## Dataset Used
 Six key datasets for this case study are :
@@ -86,7 +87,7 @@ Six key datasets for this case study are :
 - Total number of pizzas
 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometer traveled - how much money does Pizza Runner have left over after these deliveries?
 
-**Bonus Questions:**
+### E. Bonus Questions
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an `INSERT` statement to demonstrate what would happen if a new `Supreme` pizza with all the toppings was added to the Pizza Runner menu?
 
 ## Relevant Links
