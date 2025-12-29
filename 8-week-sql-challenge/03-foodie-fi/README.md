@@ -11,6 +11,7 @@ Danny realized that there is a big gap in the market and launched Foodie Fi with
 ## Solutions
 - ✅ **A. Customer Journey [View my complete solutions and analysis →](./a-customer-journey.md)**
 - ✅ **B. Data Analysis [View my complete solutions and analysis →](./b-data-analysis.md)**
+- ✅ **C. Challenge Payment [View my complete solutions and analysis →](./c-challenge-payment.md)**
 
 ## Dataset Used
 Two key datasets for this case study are :
